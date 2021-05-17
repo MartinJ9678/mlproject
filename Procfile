@@ -1,1 +1,1 @@
-pip install . -U && mlproject-computedist
+pip install . -U && mlproject-run
